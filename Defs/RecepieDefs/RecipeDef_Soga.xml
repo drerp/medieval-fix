@@ -11,6 +11,7 @@
 		<allowMixingIngredients>true</allowMixingIngredients>
 		<recipeUsers>
 			<li>CPD_DrinksTable</li>
+			<li>CPD_ElectricDrinksTable</li>
 		</recipeUsers>
 		<workSkill>Cooking</workSkill>
 	</RecipeDef>
@@ -460,6 +461,7 @@
 				</fixedIngredientFilter>
 				<recipeUsers>
 					<li>CPD_DrinksTable</li>
+					<li>CPD_ElectricDrinksTable</li>
 				</recipeUsers>
 			</RecipeDef>
 
@@ -494,6 +496,7 @@
 				</fixedIngredientFilter>
 				<recipeUsers>
 					<li>CPD_DrinksTable</li>
+					<li>CPD_ElectricDrinksTable</li>
 				</recipeUsers>
 				<workAmount>2000</workAmount>
 				<products>
